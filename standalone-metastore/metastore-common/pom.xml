@@ -33,17 +33,17 @@
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-netty-shaded</artifactId>
-      <version>${io.grpc.version}</version>
+      <version>1.57.0</version>
     </dependency>
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-protobuf</artifactId>
-      <version>${io.grpc.version}</version>
+      <version>1.57.0</version>
     </dependency>
     <dependency>
       <groupId>io.grpc</groupId>
       <artifactId>grpc-stub</artifactId>
-      <version>${io.grpc.version}</version>
+      <version>1.57.0</version>
     </dependency>
     <dependency>
       <groupId>javax.annotation</groupId>
